@@ -1,0 +1,1 @@
+console.log("niggger nigger\n")
